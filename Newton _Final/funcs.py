@@ -1,7 +1,7 @@
 #coding: utf-8
 import math
 from prettytable import PrettyTable
-
+####
 #LISTA GLOBAIS PARA REGITRAR OS VALORES EM CADA ITERAÇÃO
 lista_xk = []
 lista_resFx = []
